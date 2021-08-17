@@ -1,4 +1,4 @@
-# Staged PEMT Dataset
+# Staged PE Dataset
 
 ## Introduction
 
@@ -40,7 +40,7 @@ This repository currently contains the results for the English-to-Japanese news 
 ![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
 
 * Use and/or redistribution of this dataset is permitted under the conditions of [Creative Commons Attribution-NonCommercial-ShareAlike License 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
-* The source English texts of the dataset have been sampled from [English Wikinews](https://en.wikinews.org/wiki/) that are available under [Creative Commons Attribution 2.5 License](https://creativecommons.org/licenses/by/2.5/) by the [Asian Language Treebank (ALT) Project](https://www2.nict.go.jp/astrec-att/member/mutiyama/ALT/).  Users of the dataset are requested to take careful consideration when encountering any instances of defamation, discriminatory terms, or personal information that might be found within it.  To ensure proper usage of the dataset, refer to [Terms of Use](https://foundation.wikimedia.org/wiki/Terms_of_Use/en) of Wikinews.
+* The source English texts of the dataset have been sampled from [English Wikinews](https://en.wikinews.org/wiki/) that are available under [Creative Commons Attribution 2.5 License](https://creativecommons.org/licenses/by/2.5/) by [the Asian Language Treebank (ALT) Project](https://www2.nict.go.jp/astrec-att/member/mutiyama/ALT/).  Users of the dataset are requested to take careful consideration when encountering any instances of defamation, discriminatory terms, or personal information that might be found within it.  To ensure proper usage of the dataset, refer to [Terms of Use](https://foundation.wikimedia.org/wiki/Terms_of_Use/en) of Wikinews.
 
 ## Acknowledgments
 
